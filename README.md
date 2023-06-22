@@ -11,7 +11,7 @@
 
 1. Luoyang Vocational & Technical College, Henan, China
 2. [Zhengzhou Bussiness University, Henan, China](https://www.zbu.edu.cn/)
-3. Henan University, Henan, China
+3. [Henan University, Henan, China](http://www.henu.edu.cn/)
 4. Qujing Normal University, Yunnan, China
 5. Guangxi University for Nationalities, Nanning, China
 6. Yunnan University for Nationalities, Yunnan, China
