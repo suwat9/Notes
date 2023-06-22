@@ -8,5 +8,5 @@
 
 อ้างอิง
 <ol type="a">
-  <li>![alt text](https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png)</li>
+  <li> ![alt text](https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png)</li>
 </ol>
