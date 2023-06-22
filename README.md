@@ -9,3 +9,13 @@
 อ้างอิง
 ![alt text](https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png) 
 
+1. Luoyang Vocational & Technical College, Henan, China
+2. Zhengzhou Bussiness University, Henan, China
+3. Henan University, Henan, China
+4. Qujing Normal University, Yunnan, China
+5. Guangxi University for Nationalities, Nanning, China
+6. Yunnan University for Nationalities, Yunnan, China
+7. Songshan Shaolin Wushu Vocational Colleage, Zhengzhou, China
+8. Henan Weiqi Association, China
+9. China Association for Promoting Children's Culture and Art, China
+    
