@@ -1,4 +1,4 @@
-#มหาวิทยาลัยในจีน
+# มหาวิทยาลัยในจีน
 1. [มหาวิทยาลัยเหอหนาน](https://iao.henu.edu.cn/yw/Home.htm)
 2. [วิทยาลัยอาชีวศึกษาอู่ซู่ เส้าหลิน(Songshan Shaolin wushu vocational college)](http://www.shaolinkungfu.edu.cn/index/index.html)
 3. [มหาวิทยาลัย Sias /Sias University](https://en.sias.edu.cn)
