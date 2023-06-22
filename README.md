@@ -7,4 +7,4 @@
 6. [luoyang vocational and technical college](ยังหาไม่เจอครับ)
 
 อ้างอิง
-a. ![alt text]((https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png)https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png)
+a. ![alt text](https://github.com/suwat9/Notes/blob/main/images/chinaUniversity.png)
