@@ -13,8 +13,8 @@
 2. [Zhengzhou Bussiness University, Henan, China](https://www.zbu.edu.cn/)
 3. [Henan University, Henan, China](http://www.henu.edu.cn/)
 4. [Qujing Normal University, Yunnan, China](https://www.qjnu.edu.cn/)
-5. Guangxi University for Nationalities, Nanning, China
-6. Yunnan University for Nationalities, Yunnan, China
+5. [Guangxi University for Nationalities, Nanning, China](https://gjc.gxmzu.edu.cn/)
+6. [Yunnan University for Nationalities, Yunnan, China](https://www.ynni.edu.cn/)
 7. Songshan Shaolin Wushu Vocational Colleage, Zhengzhou, China
 8. Henan Weiqi Association, China
 9. China Association for Promoting Children's Culture and Art, China
