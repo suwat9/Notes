@@ -1,5 +1,5 @@
 ### มาตรฐานหลักสูตร และอาจารย์
-1. [มาตรฐานหลักสูตร ป.ตรี 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/download/1081/6942/16?method=view)
+1. [มาตรฐานหลักสูตร ป.ตรี 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/6942-2022-07-22-03-17-22)
 2. [มาตรฐานหลักสูตร บัณฑิตศึกษา 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/download/1080/6943/16)
 3. [ผลลัพธ์การเรียนรู้ Learning Outcomes](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7881-6)
 4. [รายละเอียดผลลัพธ์การเรียนรู้ 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/download/1079/6940/16)
