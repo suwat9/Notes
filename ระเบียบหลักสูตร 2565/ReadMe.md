@@ -11,5 +11,9 @@
 2. [มาตรฐานการขอตำแหน่งทางวิชาการในสถาบันอุดมศึกษา](https://www.ops.go.th/th/aboutus/legal-ops/download/114/6230/16)
 3. [หลักเกณฑ์การพิจารณาวารสารทางวิชาการ สำหรับการเผยแพร่ผลงานทางวิชาการ พ.ศ.๒๕๖๒](https://www.ratchakitcha.soc.go.th/DATA/PDF/2562/E/151/T_0013.PDF)
 
+### คลังหน่วยกิต
+1. [แนวทางการดำเนินงานคลังหน่วยกิตในระดับอุดมศึกษา พ.ศ. 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7352-2565-3)
+2. [หลักเกณฑ์และวิธีการเทียบโอนหน่วยกิตและผลการศึกษาในระดับอุดมศึกษา พ.ศ. 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7351-2565-2)
+
 ### แผนและนโยบาย
 1. [แผนด้านการอุดมศึกษาเพื่อผลิตและพัฒนากำลังคนของประเทศ พ.ศ. 2564-2570](https://drive.google.com/drive/folders/12UzeAe3h0DVrQkhhHB_NMAjeJwMdta3v)
