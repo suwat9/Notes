@@ -15,6 +15,17 @@
 3. [หลักเกณฑ์การตีพิมพ์เผยแพร่ผลงานวิทยานิพนธ์หรือส่วนหนึ่งของวิทยานิพนธ์ในวารสารระดับชาติ และวารสารระดับนานาชาติ พ.ศ. 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7831-2565-9)
 4. 
 
+### วารสารที่อยู่ในฐาน สกอ.
+
+
+#### Web of Science
+1. [Science Citation Index Expanded (SCIE)](https://clarivate.com/webofsciencegroup/solutions/webofscience-scie/)
+   พัฒนาขึ้นเป็น SCI ในปี 1964 ปัจจุบันนี้ SCIE จัดทำดัชนีวารสารสาขาวิทยาศาสตร์ ข้อมูลมากกว่า 53 ล้านรายการ และ 1.18 พันล้านรายการอ้างอิง ย้อนหลังไปตั้งแต่ปี 1900 ถึงปัจจุบัน
+1. [Social Sciences Citation Index (SSCI)](https://clarivate.com/webofsciencegroup/solutions/webofscience-ssci/)
+   พัฒนาขึ้นในปี 1973 ปัจจุบันนี้ SSCI จัดทำดัชนีวารสารสาขาสังคมศาสตร์ มากกว่า 3,400 ชื่อ ข้อมูลมากกว่า 9.37 ล้านรายการ และ 122 ล้านรายการอ้างอิง ย้อนหลังไปตั้งแต่ปี 1900 ถึงปัจจุบัน
+1. [Arts and Humanities Citation Index (AHCI)](https://clarivate.com/webofsciencegroup/solutions/webofscience-arts-and-humanities-citation-index/)
+   พัฒนาขึ้นในปี 1978 ปัจจุบันนี้ AHCI จัดทำดัชนีวารสารสาขาศิลปะและมนุษยศาสตร์ มากกว่า 1,800 ชื่อ ข้อมูลมากกว่า 4.9 ล้านรายการ และ 33.4 ล้านรายการอ้างอิง ย้อนหลังไปตั้งแต่ปี 1975 ถึงปัจจุบัน
+
 ### คลังหน่วยกิต
 1. [แนวทางการดำเนินงานคลังหน่วยกิตในระดับอุดมศึกษา พ.ศ. 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7352-2565-3)
 2. [หลักเกณฑ์และวิธีการเทียบโอนหน่วยกิตและผลการศึกษาในระดับอุดมศึกษา พ.ศ. 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/7351-2565-2)
