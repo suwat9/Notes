@@ -1,6 +1,6 @@
 ### คณะกรรมการมาตรฐานการอุดมศึกษา
 1. [คณะกรรมการมาตรฐานการอุดมศึกษา](https://www.ops.go.th/th/ches)
-   
+
 ### มาตรฐานหลักสูตร และอาจารย์
 1. [มาตรฐานหลักสูตร ป.ตรี 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/6942-2022-07-22-03-17-22)
 2. [มาตรฐานหลักสูตร บัณฑิตศึกษา 2565](https://www.ops.go.th/th/ches-downloads/edu-standard/item/6943-2022-07-22-03-20-23)
@@ -20,3 +20,6 @@
 
 ### แผนและนโยบาย
 1. [แผนด้านการอุดมศึกษาเพื่อผลิตและพัฒนากำลังคนของประเทศ พ.ศ. 2564-2570](https://drive.google.com/drive/folders/12UzeAe3h0DVrQkhhHB_NMAjeJwMdta3v)
+
+### รวมระเบียบของ สสว. มรภ.เพชรบุรี
+1. [ระเบียบเกี่ยวกับมาตรฐานการศึกษา 2566](https://acad.pbru.ac.th/acad58/index.php/academic-job/regulations)
