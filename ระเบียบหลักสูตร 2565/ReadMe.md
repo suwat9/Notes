@@ -16,8 +16,6 @@
 4. 
 
 ### วารสารที่อยู่ในฐาน สกอ.
-
-
 #### Web of Science
 1. [Science Citation Index Expanded (SCIE)](https://clarivate.com/webofsciencegroup/solutions/webofscience-scie/)
    พัฒนาขึ้นเป็น SCI ในปี 1964 ปัจจุบันนี้ SCIE จัดทำดัชนีวารสารสาขาวิทยาศาสตร์ ข้อมูลมากกว่า 53 ล้านรายการ และ 1.18 พันล้านรายการอ้างอิง ย้อนหลังไปตั้งแต่ปี 1900 ถึงปัจจุบัน
